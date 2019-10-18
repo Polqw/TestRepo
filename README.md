@@ -1,7 +1,7 @@
 # TestRepo
 This is a test Repo :)
 
-##This is a sub-heading
+## This is a sub-heading
 
 Mr. Kam says
 >Quiet Fools.
